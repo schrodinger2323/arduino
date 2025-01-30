@@ -4,4 +4,5 @@ bu repoda Paul McWhorter'in New Arduino Tutorials oynatma listesinde verdiği ö
 
 umarım bitirmek nasip olur ve bu repo da sizlere faydalı olur. kolay gelsin. 
 
-oynatma listesi: https://www.youtube.com/watch?v=fJWR7dBuc18&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP
+eğitmenin yt kanalı: https://www.youtube.com/@paulmcwhorter
+oynatma listesi: https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP
