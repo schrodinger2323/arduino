@@ -34,6 +34,9 @@ pot.un ayar kolunu saat yönünde çevirirsek voltaj değeri 0Va yaklaşıyor
 
 saat yönünün tersine çevirirsek değerler 5Va yaklaşıyor.
 
+https://github.com/user-attachments/assets/55a2b741-6b4b-4cf6-9952-4c785ad94a4b
+
+
 
 ------------Kod açıklamaları------------
 
